@@ -120,3 +120,21 @@ button:hover{
     color: #fff;
 
 }
+
+.image{
+    margin: 15%;
+    top: 25%;
+}
+
+.abouttext {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    color: #fff;
+    margin: 10rem;
+    font-family:NType82Mono  ;
+    
+}
+
+

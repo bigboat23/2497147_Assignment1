@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding:0;
-    font-family: NType82Mono;
+    font-family: NType82Mono !important;
 }
 .banner
 {
@@ -20,6 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-family: NType82Mono !important;;
 
 }
 .logo
@@ -111,4 +112,11 @@ button:hover span{
 button:hover{
     border: none;
 }
+.scrollbar{
+    height: 75%;
+    width: 75;
+    border: 0;
+    font-family: NType82Mono !important;
+    color: #fff;
 
+}
